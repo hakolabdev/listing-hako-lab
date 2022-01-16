@@ -1,2 +1,0 @@
-width 120% x height 120%
-interlaced
