@@ -1,0 +1,11 @@
+Nama aplikasi:
+Move the Shape
+
+Deskripsi singkat:
+Pindahkan bentuk ke tempatnya melalui rintangan untuk menyelesaikan level
+
+Deskripsi lengkap:
+Game teka-teki tiga dimensi dengan mekanisme sederhana. 
+Jelajahi berbagai tingkat yang berbeda-beda dengan rintangan yang belum pernah Anda lihat sebelumnya. 
+Koleksi semua Bintang Birunya dan jangan lupa mengkoneksikan akun Google Play Game Anda, agar Anda mendapatkan EXP Google Play Game dan bersaing papan peringkat Bintang Biru.
+Untuk mengkoneksikan akun Google Play Game, klik tombol dengan ikon joystick di menu utama.

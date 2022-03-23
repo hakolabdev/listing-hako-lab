@@ -1,0 +1,11 @@
+Nama aplikasi:
+Move the Shape
+ 	
+Deskripsi singkat:
+Sposta la forma in posizione attraverso gli ostacoli per completare il livello
+
+Deskripsi lengkap:
+Puzzle game tridimensionale con meccaniche semplici.
+Esplora diversi livelli con ostacoli che non hai mai visto prima.
+Raccogli tutte le Blue Stars e non dimenticare di collegare il tuo account Google Play Games, così puoi guadagnare Google Play Game EXP e competere nella classifica del tempo Blue Star.
+Per collegare un account Google Play Games, fai clic sul pulsante con l'icona del joystick nel menu principale.

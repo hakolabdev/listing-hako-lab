@@ -1,0 +1,11 @@
+Nama aplikasi:
+Move the Shape
+ 	
+Deskripsi singkat:
+Di chuyển hình dạng vào vị trí để hoàn thành cấp độ
+
+Deskripsi lengkap:
+Trò chơi giải đố ba chiều với cơ chế đơn giản.
+Khám phá các cấp độ khác nhau với những chướng ngại vật mà bạn chưa từng thấy trước đây.
+Thu thập tất cả các Ngôi sao Xanh và đừng quên kết nối tài khoản Google Play Trò chơi của bạn, để bạn có thể kiếm EXP Trò chơi trên Google Play và Cạnh tranh trên bảng xếp hạng theo thời gian Ngôi sao Xanh.
+Để kết nối tài khoản Google Play Trò chơi, hãy nhấp vào nút có biểu tượng cần điều khiển trong menu chính.

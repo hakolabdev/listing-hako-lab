@@ -1,0 +1,11 @@
+Nama aplikasi:
+Move the Shape
+ 	
+Deskripsi singkat:
+通过障碍物将形状移动到位以完成关卡
+
+Deskripsi lengkap:
+具有简单机制的三维益智游戏。
+探索具有您从未见过的障碍的不同关卡。
+收集所有蓝星，不要忘记连接您的 Google Play 游戏帐户，这样您就可以获得 Google Play 游戏经验并在蓝星时间排行榜上竞争。
+要连接 Google Play 游戏帐户，请单击主菜单中带有操纵杆图标的按钮。
