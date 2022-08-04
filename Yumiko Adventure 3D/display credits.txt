@@ -1,0 +1,54 @@
+version 0.1
+=====================================
+
+Project manager:
+Andri Firman Saputra
+
+Programmer:
+Andri Firman Saputra
+
+Original planner:
+Andri Firman Saputra
+
+Special Thanks (Assets):
+Desert Kits 64 Sample - Sagital3D
+
+Anime Character : Arisa (Free / RemakeV2 / Contain VRM) - 戴永翔 Dai Yong Xiang
+
+Free Fantasy Spider - Kalamona
+
+Joystick Pack - Fenerax Studios
+
+Lowpoly Nature & Village Pack - Hasan3DModels
+
+pixel horror abandoned classroom - little dog creations
+
+Free HDR Sky - ProAssets
+
+Sweet Land GUI - Persefida
+
+Special Thanks (BGM):
+Happy Days - Louise Annette Smart
+
+Special Thanks (SFX):
+Positive Button: zapsplat.com
+
+Negative Button: (reversed from positive button) zapsplat.com
+
+Start Game: zapsplat.com
+
+Achievement: zapsplat.com
+
+Checkpoint: zapsplat.com
+
+Finish: zapsplat.com
+
+Player/Run: zapsplat.com
+
+Player/Jump: taira-komori.jpn.org
+
+Player/Dying: -
+
+Player/Fall: -
+
+Player/Get Hit: -

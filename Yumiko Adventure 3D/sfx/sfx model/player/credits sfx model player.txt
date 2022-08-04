@@ -5,3 +5,16 @@ Player/Run:
 Player/Jump:
 - Company Name: taira-komori.jpn.org
 - url: https://taira-komori.jpn.org/sound/human01/girl_voice1.mp3
+
+Player/Dying:
+- Company Name: 
+- url: 
+
+Player/Fall:
+- Company Name: 
+- url: 
+
+Player/Get Hit:
+- Company Name: 
+- url: 
+
