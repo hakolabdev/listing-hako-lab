@@ -14,4 +14,6 @@ BGM Main Menu:
 - Company Name: zapsplat.com
 - url: https://www.zapsplat.com/music/mr-jelly-fun-energetic-and-cheeky-childrens-music/
 
-
+Finish Panel:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/game-sound-fun-childrens-game-musical-riff-complete-finish-2/

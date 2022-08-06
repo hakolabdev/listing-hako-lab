@@ -1,4 +1,4 @@
-version 0.1
+version 0.2
 =====================================
 
 Project manager:
@@ -47,8 +47,12 @@ Player/Run: zapsplat.com
 
 Player/Jump: taira-komori.jpn.org
 
-Player/Dying: -
+Player/Dying
 
-Player/Fall: -
+Player/Fall
 
-Player/Get Hit: -
+Player/Get Hit
+
+Spider/Attack: freesoundeffect.net
+
+Spider/Run: zapsplat.com

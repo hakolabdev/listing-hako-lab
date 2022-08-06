@@ -1,4 +1,4 @@
-version 0.1
+version 0.2
 =====================================
 
 [ASSETS]
@@ -83,3 +83,10 @@ Player/Get Hit:
 - Company Name: 
 - url: 
 
+Spider/Attack:
+- Company Name: freesoundeffect.net
+- url: http://freesoundeffect.net/sound/spider-bite-fang-bu01-593-sound-effect
+
+Spider/Run:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/large-spider-run-past-pass-by-scuttle-on-small-stones-gravel-1/

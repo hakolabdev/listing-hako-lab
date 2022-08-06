@@ -7,14 +7,14 @@ Player/Jump:
 - url: https://taira-komori.jpn.org/sound/human01/girl_voice1.mp3
 
 Player/Dying:
-- Company Name: 
+- Company Name: -
 - url: 
 
 Player/Fall:
-- Company Name: 
+- Company Name: -
 - url: 
 
 Player/Get Hit:
-- Company Name: 
+- Company Name: -
 - url: 
 
