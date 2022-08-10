@@ -18,3 +18,10 @@ Player/Get Hit:
 - Company Name: -
 - url: 
 
+Player/Respawn:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/fantasy-game-sound-hit-open-portal-or-new-level-bright-silver-glistening/
+
+
+
+
