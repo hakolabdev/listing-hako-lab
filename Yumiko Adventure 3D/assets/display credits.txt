@@ -1,4 +1,4 @@
-version 0.2
+version 0.7
 =====================================
 
 Project manager:
@@ -11,48 +11,82 @@ Original planner:
 Andri Firman Saputra
 
 Special Thanks (Assets):
-Desert Kits 64 Sample - Sagital3D
+3LE Low Poly Cloud Pack - The Fallout Nerd
 
 Anime Character : Arisa (Free / RemakeV2 / Contain VRM) - 戴永翔 Dai Yong Xiang
 
+Apple - bariacg
+
+Banana - bariacg
+
+Colorful nectarine - cglib.team
+
+Desert Kits 64 Sample - Sagital3D
+
+Durian - Thunk3D
+
+Eggplant Material Study - buttr_toes
+
+Fantasy Monster Skeleton - Teamjoker
+
+Fig - businessyuen
+
+Fox run animation Plus Armor - Eques_inferno
+
 Free Fantasy Spider - Kalamona
-
-Joystick Pack - Fenerax Studios
-
-Lowpoly Nature & Village Pack - Hasan3DModels
-
-pixel horror abandoned classroom - little dog creations
 
 Free HDR Sky - ProAssets
 
+Galia Melon - blenderbirb
+
+Grape - Taiga Yonemoto
+
+Jalapeno - IronEqual
+
+Joystick Pack - Fenerax Studios
+
+Kiwi - Franco Pizzani
+
+Lemon - Yu
+
+Lowpoly Medieval Environments - Polytope Studio
+
+Lowpoly Nature & Village Pack - Hasan3DModels
+
+Mango - Meerschaum Digital
+
+Pear - Multipainkiller Studio
+
+pixel horror abandoned classroom - little dog creations
+
+Scorpion - anthonyvanoo
+
 Sweet Land GUI - Persefida
 
+Teatime_cherry - NiklasG
+
+Teatime_orange - NiklasG
+
 Special Thanks (BGM):
-Happy Days - Louise Annette Smart
+BGM Autumn 10-15 - Karugamo BGM
+
+BGM Boss Autumn 11-15 - Karugamo BGM
+
+BGM Boss Desert 6-10 - Karugamo BGM
+
+BGM Boss Forest 1-5 - Karugamo BGM
+
+BGM Classroom - Karugamo BGM
+
+BGM Desert 6-10 - Karugamo BGM
+
+BGM Forest 1-5 - Karugamo BGM
+
+BGM Main Menu - zapsplat.com
 
 Special Thanks (SFX):
-Positive Button: zapsplat.com
+freesoundeffect.net
 
-Negative Button: (reversed from positive button) zapsplat.com
+taira-komori.jpn.org
 
-Start Game: zapsplat.com
-
-Achievement: zapsplat.com
-
-Checkpoint: zapsplat.com
-
-Finish: zapsplat.com
-
-Player/Run: zapsplat.com
-
-Player/Jump: taira-komori.jpn.org
-
-Player/Dying
-
-Player/Fall
-
-Player/Get Hit
-
-Spider/Attack: freesoundeffect.net
-
-Spider/Run: zapsplat.com
+zapsplat.com

@@ -12,12 +12,27 @@ BGM Forest 1-5:
 - url: https://karugamobgm.com
 - Original Name: KBF_3m_Dungeon_Natural_EW03
 
-BGM Desert:
+BGM Desert 6-10:
 - Company Name: Karugamo BGM
 - url: https://karugamobgm.com
 - Original Name: KBF_3m_Town_City_01_A
+
+BGM Autumn 10-15:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Heart_04
 
 BGM Boss Forest 1-5:
 - Company Name: Karugamo BGM
 - url: https://karugamobgm.com
 - Original Name: KBF_3m_Battle_Boss_02
+
+BGM Boss Desert 6-10:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Battle_Boss_04
+
+BGM Boss Autumn 11-15:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Battle_Nomal_04

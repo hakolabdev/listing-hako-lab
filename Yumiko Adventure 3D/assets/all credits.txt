@@ -1,4 +1,4 @@
-version 0.4
+version 0.7
 =====================================
 
 [ASSETS]
@@ -32,6 +32,14 @@ https://assetstore.unity.com/packages/3d/characters/humanoids/humans/lowpoly-med
 
 3LE Low Poly Cloud Pack - The Fallout Nerd
 https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911
+
+Fantasy Monster Skeleton - Teamjoker
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy-monster-skeleton-35635
+
+Scorpion - anthonyvanoo
+
+Fox run animation Plus Armor - Eques_inferno
+https://sketchfab.com/3d-models/fox-run-animation-plus-armor-2ab1edaeb9134617972c79da71252505
 
 -------------------------------------------------------------------------------------------------
 
@@ -74,6 +82,41 @@ Teatime_orange - NiklasG
 BGM Main Menu:
 - Company Name: zapsplat.com
 - url: https://www.zapsplat.com/music/mr-jelly-fun-energetic-and-cheeky-childrens-music/
+
+BGM Classroom:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Town_Indoor_02
+
+BGM Forest 1-5:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Dungeon_Natural_EW03
+
+BGM Desert 6-10:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Town_City_01_A
+
+BGM Autumn 10-15:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Heart_04
+
+BGM Boss Forest 1-5:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Battle_Boss_02
+
+BGM Boss Desert 6-10:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Battle_Boss_04
+
+BGM Boss Autumn 11-15:
+- Company Name: Karugamo BGM
+- url: https://karugamobgm.com
+- Original Name: KBF_3m_Battle_Nomal_04
 
 -------------------------------------------------------------------------------------------------
 
@@ -123,6 +166,10 @@ Player/Get Hit:
 - Company Name: 
 - url: 
 
+Player/Respawn:
+- Company Name: 
+- url:
+
 Spider/Attack:
 - Company Name: freesoundeffect.net
 - url: http://freesoundeffect.net/sound/spider-bite-fang-bu01-593-sound-effect
@@ -130,3 +177,86 @@ Spider/Attack:
 Spider/Run:
 - Company Name: zapsplat.com
 - url: https://www.zapsplat.com/music/large-spider-run-past-pass-by-scuttle-on-small-stones-gravel-1/
+
+Skeleton/Attack:
+- Company Name: 
+- url: 
+
+Skeleton/Run:
+- Company Name: 
+- url: 
+
+Fox Boss/Attack: 
+- Company Name: 
+- url: 
+
+Fox Boss/Run: 
+- Company Name: 
+- url: 
+
+Snake/Attack:
+- Company Name: 
+- url: 
+
+Snake/Walk:
+- Company Name: 
+- url: 
+
+Spider Boss/Attack: (edited)
+- Company Name: freesoundeffect.net
+- url: http://freesoundeffect.net/sound/spider-bite-fang-bu01-593-sound-effect
+
+Spider Boss/Run: (edited)
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/large-spider-run-past-pass-by-scuttle-on-small-stones-gravel-1/
+
+Boss Get Hit:
+- Company Name: 
+- url: 
+
+Achievement:
+- Company Name: zapsplat.com
+- url: 
+
+Checkpoint:
+- Company Name: zapsplat.com
+- url:
+
+Finish:
+- Company Name: zapsplat.com
+- url:
+
+Ladder:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/female-leather-shoe-single-footstep-on-wood-10/
+
+Button Trigger:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/buttons-stone-button/
+
+Get Health:
+- Company Name: zapsplat.com
+- url:
+
+Get Life:
+- Company Name: zapsplat.com
+
+Positive Button:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/cartoon-single-click-pop/
+
+Negative Button: (reversed from positive button)
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/cartoon-single-click-pop/
+
+Start Game:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/fun-magic-game-tone-positive-event-notification-2/
+
+Finish Panel:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/game-sound-fun-childrens-game-musical-riff-complete-finish-2/
+
+Game Over:
+- Company Name: zapsplat.com
+- url: https://www.zapsplat.com/music/fantasy-portal-into-an-evil-or-negative-dimension-open-1/
