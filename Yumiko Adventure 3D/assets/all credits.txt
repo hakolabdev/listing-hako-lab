@@ -1,4 +1,4 @@
-version 0.7
+version 0.8
 =====================================
 
 [ASSETS]
@@ -41,6 +41,7 @@ Scorpion - anthonyvanoo
 Fox run animation Plus Armor - Eques_inferno
 https://sketchfab.com/3d-models/fox-run-animation-plus-armor-2ab1edaeb9134617972c79da71252505
 
+Free Fly Camera - Sergey Stafeev
 -------------------------------------------------------------------------------------------------
 
 [Achivement Object 3D]

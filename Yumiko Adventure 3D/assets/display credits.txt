@@ -1,4 +1,4 @@
-version 0.7
+version 0.8
 =====================================
 
 Project manager:
@@ -34,6 +34,8 @@ Fig - businessyuen
 Fox run animation Plus Armor - Eques_inferno
 
 Free Fantasy Spider - Kalamona
+
+Free Fly Camera - Sergey Stafeev
 
 Free HDR Sky - ProAssets
 
